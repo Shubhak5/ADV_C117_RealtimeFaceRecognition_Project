@@ -1,0 +1,22 @@
+.heading {
+    background-color: grey;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+    font-size: 22px;
+    margin: 0px;
+}
+
+.heading_div {
+    float: none;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+.heading_div2 {
+    font-size: 18px;
+    border-radius: 15px;
+}
