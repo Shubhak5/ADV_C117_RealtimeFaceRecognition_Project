@@ -20,3 +20,27 @@
     font-size: 18px;
     border-radius: 15px;
 }
+
+.result_para_tag {
+    font-size: 18px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copyright_footer {
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    font-size: 12px;
+    line-height: 3;
+    bottom: 0;
+    text-align: right;
+    font-style: italic;
+}
+
+canvas {
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    margin-top: 350px;
+}
